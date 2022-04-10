@@ -1,4 +1,4 @@
-# Generating  Keywords for Google Ads
+# Generating Keywords for Google Ads
 Project Generating Keywords for Google Ads
 
 - Topic : Data Manipulation
